@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/duongdev/cdp-browser/compare/cdp-browser-v0.2.1...cdp-browser-v0.3.0) (2026-06-05)
+
+
+### Features
+
+* **clipboard:** paste text and images local-to-remote, guard bare-key shortcuts (t065) ([0d74702](https://github.com/duongdev/cdp-browser/commit/0d747020d973089363d91a357af2b5798485f00a))
+
 ## [0.2.1](https://github.com/duongdev/cdp-browser/compare/cdp-browser-v0.2.0...cdp-browser-v0.2.1) (2026-06-03)
 
 
